@@ -52,8 +52,19 @@ _Add screenshots here later._
 
 ---
 
-## 🛠️ Installation
+## Uninstall
 
-```bash
-git clone https://github.com/yourusername/codeforge.git
-cd codeforge
+DEB:
+sudo apt remove codeforge
+
+RPM:
+sudo rpm -e codeforge
+
+DNF:
+sudo dnf remove codeforge
+
+FLATPAK:
+flatpak uninstall io.github.codeforge
+
+APPIMAGE:
+rm CodeForge-2.2-x86_64.AppImage
