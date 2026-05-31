@@ -2,7 +2,7 @@
 
 A modern lightweight code editor inspired by Notepad++ with powerful developer tools, fast performance, and a clean interface.
 
-![CodeForge Banner](https://via.placeholder.com/1200x300.png?text=CodeForge+Editor)
+![CodeForge Screenshot](img/screenshots.png)
 
 ---
 
