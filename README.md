@@ -19,8 +19,6 @@ A modern lightweight code editor inspired by Notepad++ with powerful developer t
 - 🔴 Scope highlight lines
 - ⚡ Smooth scrolling
 - 🌙 Dark modern UI
-- 🧩 Plugin-ready architecture
-- 🖥️ Cross-platform support
 - 📋 Line numbers
 - 🛠️ Developer-focused tools
 
